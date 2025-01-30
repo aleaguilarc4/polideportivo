@@ -1,5 +1,5 @@
-/writetable/*
-!/writetable/index.html
+/writable/*
+!/writable/index.html
 /logs/*
 /cache/*
 /vendor/
